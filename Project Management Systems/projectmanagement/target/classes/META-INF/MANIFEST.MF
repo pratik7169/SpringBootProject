@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: sayye
+Build-Jdk: 17.0.4.1
+Implementation-Title: projectmanagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.main
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
